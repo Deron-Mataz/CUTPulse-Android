@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAY_ZpFAL7Bk_5jVKNFLMAYh54pl4f1wfo',
+    apiKey: 'PUT_YOUR_OWN_KEY!',
     appId: '1:234334817589:android:ff8d433531e0b96cc6d07c',
     messagingSenderId: '234334817589',
     projectId: 'cutpulse-eac48',
