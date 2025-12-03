@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "234334817589",
+    "firebase_url": "https://cutpulse-eac48-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cutpulse-eac48",
+    "storage_bucket": "cutpulse-eac48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234334817589:android:59bf75a595718e5cc6d07c",
+        "android_client_info": {
+          "package_name": "com.cut.pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_ZpFAL7Bk_5jVKNFLMAYh54pl4f1wfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234334817589:android:ff8d433531e0b96cc6d07c",
+        "android_client_info": {
+          "package_name": "com.example.cutpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_ZpFAL7Bk_5jVKNFLMAYh54pl4f1wfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
